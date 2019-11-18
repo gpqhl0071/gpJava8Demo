@@ -66,5 +66,7 @@ demo详见：
 
 
 ## 参考
+
 [https://howtodoinjava.com/java-8-tutorial/](https://howtodoinjava.com/java-8-tutorial/)
-更多参考：[https://www.journaldev.com/2389/java-8-features-with-examples#iterable-forEach](https://www.journaldev.com/2389/java-8-features-with-examples)
+
+[https://www.journaldev.com/2389/java-8-features-with-examples#iterable-forEach](https://www.journaldev.com/2389/java-8-features-with-examples)
