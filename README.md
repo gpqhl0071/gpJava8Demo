@@ -62,4 +62,6 @@ demo详见：
 
 新的Time API在整月的几个月和一周中的几天中都更喜欢枚举而不是整数常量。有用的类之一是DateTimeFormatter将datetime对象转换为字符串。
 
-[更多详见](document/Java8日期.md)
+[更多详见](document/Java8日期.md) 
+
+[https://howtodoinjava.com/java-8-tutorial/](https://howtodoinjava.com/java-8-tutorial/)
