@@ -2,7 +2,7 @@
 
 只针对主要的特性进行了编码学习，其他更多还待完善 
 
-更多参考：[https://www.journaldev.com/2389/java-8-features-with-examples#iterable-forEach](https://www.journaldev.com/2389/java-8-features-with-examples#iterable-forEach)
+更多参考：[https://www.journaldev.com/2389/java-8-features-with-examples#iterable-forEach](https://www.journaldev.com/2389/java-8-features-with-examples)
 
 Java 8于2014年3月18日发布
 
@@ -13,10 +13,10 @@ Java 8的一些重要功能是：
 - [功能接口和Lambda表达式](#功能接口和Lambda表达式)
 - [用于集合上批量数据操作的Java Stream API](#用于集合上批量数据操作的Stream)
 - [Java时间API](#Java时间API)
-- [集合API的改进]()
-- [并发API改进]()
-- [Java IO改进]()
-- [其他核心API改进]()
+- [集合API的改进](https://www.journaldev.com/2389/java-8-features-with-examples#java8-collection)
+- [并发API改进](https://www.journaldev.com/2389/java-8-features-with-examples#java8-concurrency)
+- [Java IO改进](https://www.journaldev.com/2389/java-8-features-with-examples#java8-io)
+- [其他核心API改进](https://www.journaldev.com/2389/java-8-features-with-examples#java8-core)
 
 ---
 
@@ -64,4 +64,7 @@ demo详见：
 
 [更多详见](document/Java8日期.md) 
 
+
+## 参考
 [https://howtodoinjava.com/java-8-tutorial/](https://howtodoinjava.com/java-8-tutorial/)
+更多参考：[https://www.journaldev.com/2389/java-8-features-with-examples#iterable-forEach](https://www.journaldev.com/2389/java-8-features-with-examples)
